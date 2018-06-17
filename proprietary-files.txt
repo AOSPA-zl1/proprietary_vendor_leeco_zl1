@@ -868,7 +868,6 @@ vendor/lib/libmm-qdcm.so|085e4756684d29cc84342b0e033b3c5c0c3b1d86
 vendor/lib/libmmqjpeg_codec.so|71aa05d5c0dbe45586fa5ee39bc352f82086f9ae
 vendor/lib/libmmqjpegdma.so|9b72390d72eb4a6a3bf3cffd85eb17f06b4f0a27
 vendor/lib/libmmQSM.so|7edd945bb418d41f95686268ca702497507b51ba
-vendor/lib/liboemcrypto.so
 vendor/lib/libOmxAacDec.so|53e451fabea0b919de98d20c9357d6f6dfd90efc
 vendor/lib/libOmxEvrcDec.so|a4cbd990b98a29b72b661a22239f5ab417e5ce6b
 vendor/lib/libOmxQcelp13Dec.so|d52947ce05f069b830a01f91518b78b7c233dfcb
